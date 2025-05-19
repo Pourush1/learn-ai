@@ -93,3 +93,32 @@ Important resources to learn everything about AI/ML, LLMs and Agents.
 ### LLM Based IDEs
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://windsurf.com/editor)
+
+## Prompt Engineering
+- [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
+- [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
+- [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
+- [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
+
+## Retrieval-Augmented Generation (RAG)
+- [Introduction to RAG - Coursera](https://www.coursera.org/projects/introduction-to-rag)
+- [RAG Techniques - Github](https://github.com/NirDiamant/RAG_Techniques)
+
+## AI Agents
+- [A Visual Guide to LLM Agents](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
+- [Agents - Chip Huyen](https://huyenchip.com/2025/01/07/agents.html)
+- [AI Agents Course - Hugging Face](https://huggingface.co/learn/agents-course/)
+- [Building AI Browser Agents - Deeplearning.ai](https://www.deeplearning.ai/short-courses/building-ai-browser-agents/)
+- [GenAI Agents - Github](https://github.com/NirDiamant/GenAI_Agents)
+
+## Model Context Protocol (MCP)
+- [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
+- [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
+- [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
+- [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
+
+## MLOps & Deployment
+- [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)
+- [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)

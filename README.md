@@ -2,6 +2,38 @@
 
 Important resources to learn everything about AI/ML, LLMs and Agents.
 
+## Table of Contents
+
+- [Mathematical Foundations](#mathematical-foundations)
+- [Python](#python)
+- [AI & ML Fundamentals](#ai--ml-fundamentals)
+  - [Machine Learning Frameworks](#machine-learning-frameworks)
+- [Deep Learning](#deep-learning)
+  - [Deep Learning Frameworks](#deep-learning-frameworks)
+- [Deep Learning Specializations](#deep-learning-specializations)
+  - [Computer Vision](#computer-vision)
+  - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+  - [Reinforcement Learning](#reinforcement-learning)
+- [Generative AI](#generative-ai)
+- [Large Language Models (LLMs)](#large-language-models-llms)
+  - [Awesome LLM Apps](#awesome-llm-apps)
+  - [LLM Chatbots](#llm-chatbots)
+  - [Open Source LLMs](#open-source-llms)
+  - [LLM APIs](#llm-apis)
+  - [LLM Tools & Frameworks](#llm-tools--frameworks)
+  - [LLM Based IDEs](#llm-based-ides)
+- [Prompt Engineering](#prompt-engineering)
+- [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
+- [AI Agents](#ai-agents)
+- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
+- [MLOps & Deployment](#mlops--deployment)
+  - [Tools](#tools)
+- [Guides](#guides)
+- [Books](#books)
+- [YouTube Channels](#youtube-channels)
+- [Other Resources](#other-resources)
+- [Must-Read AI Papers](#must-read-ai-papers)
+
 ## Mathematical Foundations
 
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

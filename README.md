@@ -1,6 +1,27 @@
 # Learn AI Engineering
 
-Important resources to learn everything about AI/ML, LLMs and Agents.
+A comprehensive, curated collection of the best resources to master AI/ML, Large Language Models, and AI Agents. This repository brings together high-quality learning materials from across the web - from foundational mathematics to cutting-edge AI applications.
+
+## 🎯 About This Collection
+
+This is a **resource hub** featuring learning materials that have been recommended by AI practitioners, researchers, and educators. While I haven't personally completed every single resource listed here, each one has been chosen based on:
+
+- **Community reputation** and positive feedback
+- **Quality of content** and teaching methodology
+- **Relevance** to modern AI engineering practices
+- **Accessibility** for learners at different levels
+
+Whether you're a complete beginner starting your AI journey or an experienced developer looking to specialize in LLMs and AI agents, you'll find valuable resources here to guide your learning path.
+
+## 🚀 How to Use This Guide
+
+1. **Start with the basics** - Mathematical foundations and Python if you're new
+2. **Follow your interests** - Use the icons to find your preferred learning format
+3. **Build projects** - Apply what you learn with hands-on practice
+4. **Join communities** - Connect with other learners and practitioners
+5. **Stay updated** - AI moves fast, so keep learning continuously
+
+> 💡 **Tip**: Don't try to consume everything at once. Pick a learning path that matches your goals and current skill level.
 
 ## Resource Type Icons
 

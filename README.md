@@ -55,12 +55,10 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 - [Large Language Models (LLMs)](#large-language-models-llms)
   - [Awesome LLM Apps](#awesome-llm-apps)
   - [LLM Chatbots](#llm-chatbots)
-  - [Open Source LLMs](#open-source-llms)
   - [LLM APIs](#llm-apis)
   - [LLM Tools & Frameworks](#llm-tools--frameworks)
   - [LLM Based IDEs](#llm-based-ides)
 - [Prompt Engineering](#prompt-engineering)
-- [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
 - [AI Agents](#ai-agents)
 - [Model Context Protocol (MCP)](#model-context-protocol-mcp)
 - [MLOps & Deployment](#mlops--deployment)
@@ -166,11 +164,6 @@ _Understanding modern language models and transformers_
 - 🤖 [Claude](https://claude.ai/new)
 - 🤖 [Perplexity](https://www.perplexity.ai/)
 
-### Open Source LLMs
-
-- 🤖 [Llama](https://www.llama.com/)
-- 🤖 [Deepseek](https://chat.deepseek.com/)
-
 ### LLM APIs
 
 - 🔌 [OpenAI](https://platform.openai.com/docs/overview)
@@ -182,8 +175,6 @@ _Understanding modern language models and transformers_
 
 - 🛠️ [LangChain](https://www.langchain.com/)
 - 🛠️ [LlamaIndex](https://www.llamaindex.ai/)
-- 🛠️ [Ollama](https://ollama.com/)
-- 🛠️ [Instructor](https://python.useinstructor.com/)
 
 ### LLM Based IDEs
 
@@ -199,13 +190,6 @@ _Learn to work effectively with LLMs_
 - 📚 [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
 - 🎓 [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
 - 📚 [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
-
-## Retrieval-Augmented Generation (RAG)
-
-_Build AI systems that work with your data_
-
-- 🎓 [Introduction to RAG - Coursera](https://www.coursera.org/projects/introduction-to-rag)
-- 📚 [RAG Techniques - Github](https://github.com/NirDiamant/RAG_Techniques)
 
 ## AI Agents
 
@@ -247,15 +231,11 @@ _Taking AI systems to production_
 
 ## Books
 
-- 📖 [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- 📖 [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
 - 📖 [Deep Learning with Python](https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 - 📖 [Why Machines Learn](https://www.amazon.com/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
 - 📖 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - 📖 [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
-- 📖 [Build a LLM from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - 📖 [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
-- 📖 [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
 ## YouTube Channels
 

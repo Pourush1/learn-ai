@@ -71,7 +71,13 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 - [Other Resources](#other-resources)
 - [Must-Read AI Papers](#must-read-ai-papers)
 
+---
+
+# 📚 Learning Resources
+
 ## Mathematical Foundations
+
+_Start here if you're new to AI/ML - these mathematical concepts are essential_
 
 - 📺 [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - 📺 [Statistics Fundamentals - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
@@ -79,9 +85,13 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Python
 
+_Learn Python programming - the primary language for AI development_
+
 - 🎓 [AI Python for Beginners - Deeplearning.ai](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
 
 ## AI & ML Fundamentals
+
+_Core machine learning concepts and algorithms_
 
 - 🎓 [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
 - 📚 [AI for Beginners – Microsoft](https://microsoft.github.io/AI-For-Beginners/)
@@ -95,6 +105,8 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Deep Learning
 
+_Neural networks and deep learning fundamentals_
+
 - 🎓 [Deep Learning Specialization - Coursera (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
 - 🎓 [Practical Deep Learning for Coders - Fast.ai](https://course.fast.ai/)
 - 📺 [Deep Learning Playlist - Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
@@ -106,6 +118,8 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 - 🛠️ [Keras](https://keras.io/)
 
 ## Deep Learning Specializations
+
+_Specialized applications of deep learning_
 
 ### Computer Vision
 
@@ -122,11 +136,15 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Generative AI
 
+_Understanding generative models and AI creativity_
+
 - 📄 [The Building Blocks of Generative AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
 - 📚 [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - 🎓 [Generative AI for Everyone - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
 
 ## Large Language Models (LLMs)
+
+_Understanding modern language models and transformers_
 
 - 📺 [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUDbGxt)
 - 📺 [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
@@ -174,6 +192,8 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Prompt Engineering
 
+_Learn to work effectively with LLMs_
+
 - 🎓 [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
 - 🎓 [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - 📚 [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
@@ -182,10 +202,14 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Retrieval-Augmented Generation (RAG)
 
+_Build AI systems that work with your data_
+
 - 🎓 [Introduction to RAG - Coursera](https://www.coursera.org/projects/introduction-to-rag)
 - 📚 [RAG Techniques - Github](https://github.com/NirDiamant/RAG_Techniques)
 
 ## AI Agents
+
+_Create autonomous AI systems_
 
 - 📄 [Agents - Chip Huyen](https://huyenchip.com/2025/01/07/agents.html)
 - 🎓 [AI Agents Course - Hugging Face](https://huggingface.co/learn/agents-course/)
@@ -194,6 +218,8 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Model Context Protocol (MCP)
 
+_Advanced AI integration and context management_
+
 - 📚 [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
 - 🎓 [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
 - 🎓 [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
@@ -201,12 +227,18 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## MLOps & Deployment
 
+_Taking AI systems to production_
+
 - 🎓 [ML in Production - Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production)
 - 🎓 [ML System Design - Stanford](https://stanford-cs329s.github.io/syllabus.html)
 
 ### Tools
 
 - 🛠️ [Streamlit](https://streamlit.io/)
+
+---
+
+# 📖 Additional Resources
 
 ## Guides
 

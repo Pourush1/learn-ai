@@ -130,13 +130,11 @@ _Specialized applications of deep learning_
 ### Reinforcement Learning
 
 - 🎓 [Deep RL Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-- 🎓 [Deep RL Bootcamp - UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## Generative AI
 
 _Understanding generative models and AI creativity_
 
-- 📄 [The Building Blocks of Generative AI](https://shriftman.substack.com/p/the-building-blocks-of-generative)
 - 📚 [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - 🎓 [Generative AI for Everyone - Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)
 
@@ -147,7 +145,6 @@ _Understanding modern language models and transformers_
 - 📺 [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUDbGxt)
 - 📺 [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
 - 📄 [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
-- 📄 [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)
 - 🎓 [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - 📺 [Building GPT from scratch - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - 📚 [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
@@ -169,7 +166,6 @@ _Understanding modern language models and transformers_
 - 🔌 [OpenAI](https://platform.openai.com/docs/overview)
 - 🔌 [Anthropic](https://docs.anthropic.com/en/docs/overview)
 - 🔌 [Gemini - Google](https://ai.google.dev/gemini-api/docs)
-- 🔌 [Groq - Inference](https://groq.com/)
 
 ### LLM Tools & Frameworks
 
@@ -188,7 +184,6 @@ _Learn to work effectively with LLMs_
 - 🎓 [Google Prompting Essentials](https://www.coursera.org/google-learn/prompting-essentials)
 - 🎓 [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - 📚 [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
-- 🎓 [Getting Structured LLM Output - Deeplearning.ai](https://www.deeplearning.ai/short-courses/getting-structured-llm-output/)
 - 📚 [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
 
 ## AI Agents

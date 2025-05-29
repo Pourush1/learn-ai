@@ -18,8 +18,7 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 1. **Start with the basics** - Mathematical foundations and Python if you're new
 2. **Follow your interests** - Use the icons to find your preferred learning format
 3. **Build projects** - Apply what you learn with hands-on practice
-4. **Join communities** - Connect with other learners and practitioners
-5. **Stay updated** - AI moves fast, so keep learning continuously
+4. **Stay updated** - AI moves fast, so keep learning continuously
 
 > 💡 **Tip**: Don't try to consume everything at once. Pick a learning path that matches your goals and current skill level.
 
@@ -75,7 +74,7 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 ## Mathematical Foundations
 
-_Start here if you're new to AI/ML - these mathematical concepts are essential_
+_Important Mathematical concepts_
 
 - 📺 [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - 📺 [Statistics Fundamentals - Josh Strarmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
@@ -144,7 +143,6 @@ _Understanding modern language models and transformers_
 
 - 📺 [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUDbGxt)
 - 📺 [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
-- 📄 [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - 🎓 [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
 - 📺 [Building GPT from scratch - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - 📚 [LLM Course - GitHub](https://github.com/mlabonne/llm-course)
@@ -239,7 +237,6 @@ _Taking AI systems to production_
 
 ## Other Resources
 
-- 🌐 [Papers with Code](https://paperswithcode.com/)
 - 🎯 [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ## Must-Read AI Papers

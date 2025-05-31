@@ -2,7 +2,7 @@
 
 A comprehensive, curated collection of the best resources to master AI/ML, Large Language Models, and AI Agents. This repository brings together high-quality learning materials from across the web - from foundational mathematics to cutting-edge AI applications.
 
-## 🎯 About This Collection
+## About This Collection
 
 This is a **resource hub** featuring learning materials that have been recommended by AI practitioners, researchers, and educators. While I haven't personally completed every single resource listed here, each one has been chosen based on:
 
@@ -17,7 +17,7 @@ Whether you're a complete beginner starting your AI journey or an experienced de
 
 To effectively navigate your AI learning journey, it's helpful to understand how the current AI landscape is structured. The ecosystem can be divided into three key categories:
 
-### 1. 🏢 **AI Product Companies**
+### 1. **AI Product Companies**
 
 **What they do**: Build end-user applications and services powered by AI
 
@@ -25,7 +25,7 @@ To effectively navigate your AI learning journey, it's helpful to understand how
 - **Skills needed**: Product development, UX/UI, API integration, prompt engineering
 - **Career path**: Often the entry point for software engineers transitioning into AI
 
-### 2. 🛠️ **AI Infrastructure Companies**
+### 2. **AI Infrastructure Companies**
 
 **What they do**: Create tools, platforms, and services that help AI product companies build and deploy AI solutions
 
@@ -33,7 +33,7 @@ To effectively navigate your AI learning journey, it's helpful to understand how
 - **Skills needed**: System design, DevOps, cloud architecture, AI tooling
 - **Career path**: Natural progression for engineers wanting to work closer to the AI stack
 
-### 3. 🤖 **AI Model Provider Companies**
+### 3. **AI Model Provider Companies**
 
 **What they do**: Research, develop, and provide the foundational AI models that power the entire ecosystem
 

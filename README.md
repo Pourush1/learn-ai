@@ -221,6 +221,7 @@ _Learn to work effectively with LLMs_
 - 🎓 [ChatGPT Prompt Engineering for Developers - Deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - 📚 [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
 - 📚 [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
+- 📚 [Prompt Engineering - Claude](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 ## AI Agents
 

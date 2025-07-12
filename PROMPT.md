@@ -6,6 +6,8 @@ This document contains helpful prompt templates for working with AI and improvin
 
 - [Helpful Prompts](https://prompts.chat/) - A comprehensive collection of prompt templates for various use cases
 
+
+# [Below are the prompt from this article](https://substack.com/home/post/p-164288010)
 # AI Coding Assistant Prompt Templates
 
 ## 🔧 Debugging Templates

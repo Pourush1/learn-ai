@@ -222,6 +222,7 @@ _Learn to work effectively with LLMs_
 - 📚 [Prompt Engineering Techniques - Github](https://github.com/NirDiamant/Prompt_Engineering)
 - 📚 [Advanced Prompting Techniques - Instructor](https://python.useinstructor.com/prompting/)
 - 📚 [Prompt Engineering - Claude](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+- 📄 [Prompt Engineering Playbook for Programmers](https://substack.com/home/post/p-164288010)
 
 ## AI Agents
 
@@ -240,6 +241,8 @@ _Advanced AI integration and context management_
 - 🎓 [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
 - 🎓 [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
 - 📚 [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
+- 📄 [The Guid To MCP I never had](https://levelup.gitconnected.com/the-guide-to-mcp-i-never-had-f79091cf99f8)
+- 📄 [MCP: What is it and Why it matters](https://addyo.substack.com/p/mcp-what-it-is-and-why-it-matters)
 
 ## MLOps & Deployment
 

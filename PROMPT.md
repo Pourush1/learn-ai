@@ -13,13 +13,13 @@ This document contains helpful prompt templates for working with AI and improvin
 ## 🔧 Debugging Templates
 
 ### Basic Bug Fixing Template
+
+**Template:**
 ```
 I have a [LANGUAGE] function that should [EXPECTED_BEHAVIOR], but it's [ACTUAL_BEHAVIOR]. 
 
 **Code:**
-```[language]
 [YOUR_CODE_HERE]
-```
 
 **Error Message:** [EXACT_ERROR_MESSAGE]
 **Expected Output:** [EXPECTED_RESULT] 
@@ -30,24 +30,24 @@ What could be causing this bug and how can I fix it?
 ```
 
 ### Step-by-Step Debugging Template
+
+**Template:**
 ```
 Walk through this [LANGUAGE] function line by line and track the value of [VARIABLE_NAME] at each step. It's not [EXPECTED_BEHAVIOR] - where does the logic go wrong?
 
-```[language]
 [YOUR_CODE_HERE]
-```
 
 Expected behavior: [DESCRIPTION]
 Current issue: [PROBLEM_DESCRIPTION]
 ```
 
 ### React Hook Dependencies Template
+
+**Template:**
 ```
 I have a React component that [DESCRIPTION_OF_ISSUE]. Here's my code:
 
-```jsx
 [COMPONENT_CODE]
-```
 
 **Expected behavior:** [WHAT_SHOULD_HAPPEN]
 **Actual behavior:** [WHAT_IS_HAPPENING] 
@@ -57,12 +57,12 @@ What's causing this [infinite loop/dependency issue/etc] and how do I fix the de
 ```
 
 ### Minimal Reproducible Example Template
+
+**Template:**
 ```
 Here's a minimal example that reproduces the [ERROR_TYPE]:
 
-```[language]
 [MINIMAL_CODE_SNIPPET]
-```
 
 This triggers: [ERROR_MESSAGE]
 Expected: [EXPECTED_RESULT]
@@ -72,6 +72,8 @@ Why does this error occur and how can I fix it?
 ## 🔄 Refactoring Templates
 
 ### Goal-Oriented Refactoring Template
+
+**Template:**
 ```
 Refactor the following [LANGUAGE] [function/component/class] to [SPECIFIC_GOALS]. 
 
@@ -81,14 +83,14 @@ Refactor the following [LANGUAGE] [function/component/class] to [SPECIFIC_GOALS]
 3. [REQUIREMENT_3] (e.g., maintain error handling)
 4. [REQUIREMENT_4] (e.g., use modern syntax)
 
-```[language]
 [CODE_TO_REFACTOR]
-```
 
 Please provide the refactored code with comments explaining the changes.
 ```
 
 ### Performance Optimization Template
+
+**Template:**
 ```
 Optimize this [LANGUAGE] [function/algorithm] for [PERFORMANCE_METRIC]. 
 
@@ -100,20 +102,18 @@ Optimize this [LANGUAGE] [function/algorithm] for [PERFORMANCE_METRIC].
 - [CONSTRAINT_1] (e.g., must handle 10k+ items)
 - [CONSTRAINT_2] (e.g., memory usage should be minimal)
 
-```[language]
 [CODE_TO_OPTIMIZE]
-```
 
 How can I improve the [runtime/memory/etc] performance?
 ```
 
 ### Code Review Style Template
+
+**Template:**
 ```
 Act as a senior [TECHNOLOGY] developer and review this code for potential issues:
 
-```[language]
 [CODE_TO_REVIEW]
-```
 
 Focus on:
 - [FOCUS_AREA_1] (e.g., potential bugs)
@@ -127,6 +127,8 @@ Provide specific recommendations for improvement.
 ## 🏗️ Feature Implementation Templates
 
 ### New Feature Planning Template
+
+**Template:**
 ```
 I want to add a [FEATURE_DESCRIPTION] to my [TECHNOLOGY_STACK] application.
 
@@ -144,6 +146,8 @@ Please outline a step-by-step implementation plan, then we'll tackle each step.
 ```
 
 ### Component Creation Template
+
+**Template:**
 ```
 Create a [FRAMEWORK] [component/module] called [NAME] that [FUNCTIONALITY].
 
@@ -159,12 +163,12 @@ Create a [FRAMEWORK] [component/module] called [NAME] that [FUNCTIONALITY].
 - [TECH_REQ_3] (e.g., accessibility compliant)
 
 Here's how similar components are structured in our project:
-```[language]
 [REFERENCE_CODE]
-```
 ```
 
 ### API Endpoint Template
+
+**Template:**
 ```
 Implement a [HTTP_METHOD] endpoint `/[ROUTE]` in [FRAMEWORK] that [FUNCTIONALITY].
 
@@ -179,14 +183,14 @@ Request: [SAMPLE_REQUEST]
 Response: [SAMPLE_RESPONSE]
 
 Follow our existing patterns shown in this similar endpoint:
-```[language]
 [REFERENCE_ENDPOINT]
-```
 ```
 
 ## 🏛️ Architecture Templates
 
 ### State Management Architecture Template
+
+**Template:**
 ```
 I'm building a [PROJECT_TYPE] using [TECH_STACK] and need to design the state management architecture.
 
@@ -207,6 +211,8 @@ Please provide a recommended architecture with code examples showing how to stru
 ```
 
 ### System Design Template
+
+**Template:**
 ```
 Design the architecture for a [SYSTEM_TYPE] that needs to:
 
@@ -235,6 +241,8 @@ Please suggest an architecture with:
 ## 🎯 Role-Based Prompt Templates
 
 ### Expert Consultant Template
+
+**Template:**
 ```
 Act as a [EXPERT_TYPE] with 10+ years of experience. I need help with [PROBLEM_DESCRIPTION].
 
@@ -246,13 +254,13 @@ As an expert, what would you recommend? Please explain your reasoning and provid
 ```
 
 ### Code Mentor Template
+
+**Template:**
 ```
 Act as an experienced [TECHNOLOGY] mentor helping a [SKILL_LEVEL] developer. 
 
 **Student's code:**
-```[language]
 [CODE_TO_REVIEW]
-```
 
 **Student's question:** [SPECIFIC_QUESTION]
 
@@ -264,12 +272,12 @@ Please provide:
 ```
 
 ### Security Auditor Template
+
+**Template:**
 ```
 Act as a cybersecurity expert reviewing this [LANGUAGE] code for security vulnerabilities:
 
-```[language]
 [CODE_TO_AUDIT]
-```
 
 Focus on:
 - [SECURITY_CONCERN_1] (e.g., input validation)
@@ -282,12 +290,12 @@ Please identify potential vulnerabilities and provide secure alternatives.
 ## 📝 Documentation & Learning Templates
 
 ### Code Explanation Template
+
+**Template:**
 ```
 Explain this [LANGUAGE] code in detail, as if teaching a [SKILL_LEVEL] developer:
 
-```[language]
 [CODE_TO_EXPLAIN]
-```
 
 Please cover:
 - What the code does overall
@@ -297,12 +305,12 @@ Please cover:
 ```
 
 ### Test Generation Template
+
+**Template:**
 ```
 Generate comprehensive unit tests for this [LANGUAGE] function:
 
-```[language]
 [FUNCTION_TO_TEST]
-```
 
 Please include tests for:
 - Happy path scenarios
@@ -314,12 +322,12 @@ Use [TESTING_FRAMEWORK] and follow [TESTING_PATTERNS].
 ```
 
 ### Documentation Template
+
+**Template:**
 ```
 Create technical documentation for this [CODE_TYPE]:
 
-```[language]
 [CODE_TO_DOCUMENT]
-```
 
 Include:
 - Purpose and overview
@@ -333,6 +341,8 @@ Include:
 ## ⚡ Quick Reference Templates
 
 ### Quick Bug Fix
+
+**Template:**
 ```
 Bug: [BRIEF_DESCRIPTION]
 Code: [CODE_SNIPPET]
@@ -341,20 +351,20 @@ Fix this quickly.
 ```
 
 ### Quick Optimization
+
+**Template:**
 ```
 Make this [LANGUAGE] code faster:
-```[language]
 [CODE_TO_OPTIMIZE]
-```
 Focus on [SPECIFIC_BOTTLENECK].
 ```
 
 ### Quick Explanation
+
+**Template:**
 ```
 What does this code do?
-```[language]
 [CODE_TO_EXPLAIN]
-```
 Explain in simple terms.
 ```
 
@@ -396,10 +406,11 @@ add tests, update documentation, and deploy to production"
 ## 🔗 Template Usage Examples
 
 ### Debugging a React Hook
+
+**Example:**
 ```
 I have a React component that's causing infinite re-renders. Here's my code:
 
-```jsx
 const UserProfile = ({ userId }) => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -410,7 +421,6 @@ const UserProfile = ({ userId }) => {
   
   return loading ? <div>Loading...</div> : <div>{user?.name}</div>;
 };
-```
 
 **Expected behavior:** Should fetch user data once when userId changes
 **Actual behavior:** Component re-renders infinitely  
@@ -420,6 +430,8 @@ What's causing this infinite loop and how do I fix the dependency array?
 ```
 
 ### Refactoring for Performance
+
+**Example:**
 ```
 Refactor this JavaScript function to eliminate duplicate code and improve performance.
 
@@ -429,11 +441,9 @@ Refactor this JavaScript function to eliminate duplicate code and improve perfor
 3. Keep separate error handling (we want to know which call failed)
 4. Improve the combination logic using a more efficient lookup structure
 
-```javascript
 async function getCombinedData(apiClient) {
   // Current implementation with duplication...
 }
-```
 
 Please provide the refactored code with comments explaining the improvements.
 ```
